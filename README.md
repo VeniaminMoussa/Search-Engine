@@ -1,1 +1,2 @@
 # Search-Engine
+This search engine supports storage, indexing and searching of Facebook posts from former US President Donald Trump. The implementation was based on the library Apache Lucene, which provides basic retrieval functions information retrieval, such as organizing the text collection by creating indexing, searching texts with queries expressed in various models (such as Boolean, Vector Space, phrase, etc.), and classification of related results.
